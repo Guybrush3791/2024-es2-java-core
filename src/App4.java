@@ -117,5 +117,7 @@ public class App4 {
         String userStr = sc.nextLine();
 
         System.out.println(userStr);
+
+        sc.close();
     }
 }
