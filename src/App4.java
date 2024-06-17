@@ -1,4 +1,5 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class App4 {
 
@@ -109,5 +110,12 @@ public class App4 {
         System.out.println("\"" + dirtyStr + "\"");
         dirtyStr = dirtyStr.trim();
         System.out.println("\"" + dirtyStr + "\"");
+
+        System.out.println("--------------------");
+
+        Scanner sc = new Scanner(System.in);
+        String userStr = sc.nextLine();
+
+        System.out.println(userStr);
     }
 }
