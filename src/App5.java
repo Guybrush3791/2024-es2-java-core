@@ -9,6 +9,10 @@ public class App5 {
         // come valori dell'array
         // // !! //
 
-        // 3. Chiedere all'utente una stringa
+        // 3. Chiedere all'utente una stringa e contare quanti caratteri
+        // contiene
+
+        // 4. Chiedere all'utente una stringa e contare quanti caratteri
+        // maiuscoli contiene
     }
 }
